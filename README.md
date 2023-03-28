@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pavel Liavitski
+### Hi there 👋, I'm Pavel Liavitski
 ### I'm a Web Developer
 ##### &nbsp;&nbsp; 🌱 I’m currently learning React.js 😍
 ##### &nbsp;&nbsp; 📸 I like photography and 🎹 music
