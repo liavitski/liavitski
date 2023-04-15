@@ -2,7 +2,7 @@
 ### I'm a Web Developer
 ##### &nbsp;&nbsp; 🌱 I’m currently learning React.js 😍
 ##### &nbsp;&nbsp; 💻 I'm taking the [Networking Basics](https://skillsforall.com/course/networking-basics) course 📶
-##### &nbsp;&nbsp; 📸 I like photography and 🎹 [music](https://soundcloud.com/liavitski)
+
 
 # ![200](https://www.codewars.com/users/liavitski/badges/small)
 #### My Skills:
