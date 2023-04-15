@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Pavel Liavitski
 ### I'm a Web Developer
 ##### &nbsp;&nbsp; 🌱 I’m currently learning React.js 😍
-##### &nbsp;&nbsp; 💫 I'm taking the Networking Basics course 📶
+##### &nbsp;&nbsp; 💻 I'm taking the Networking Basics course 📶
 ##### &nbsp;&nbsp; 📸 I like photography and 🎹 music
 
 # ![200](https://www.codewars.com/users/liavitski/badges/small)
