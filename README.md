@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Pavel Liavitski
-## I'm a Web Developer
+## I'm a Front-end Developer
 ##### &nbsp;&nbsp; 🌱 I’m currently learning React.js 😍
 ##### &nbsp;&nbsp; 💻 I'm taking the [Networking Basics](https://skillsforall.com/course/networking-basics) course 📶
 
