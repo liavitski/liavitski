@@ -1,10 +1,8 @@
 ## Hi there 👋, I'm Pavel Liavitski
 ### I'm a Front-end developer
-&nbsp;&nbsp; - 🌱 I’m currently learning React.js 😍
-<br />
-&nbsp;&nbsp; - 💻 I'm taking the [Networking Basics](https://skillsforall.com/course/networking-basics) course 📶
-
+&nbsp;&nbsp; - 🌱 I’m currently learning HTML, CSS and JavaScript 😍
 
 # ![200](https://www.codewars.com/users/liavitski/badges/small)
 #### My Skills:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,styledcomponents,js,react,vscode&theme=dark)](#)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,styledcomponents,react,figma)](https://skillicons.dev)
