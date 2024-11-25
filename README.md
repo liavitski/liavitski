@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Pavel Levitski
+## Hi there 👋, I'm Pavel Liavitski
 ### I'm a Front-end developer
 &nbsp;&nbsp; - 🌱 I’m currently learning React ⚛️
 
