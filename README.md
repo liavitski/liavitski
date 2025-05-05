@@ -5,4 +5,4 @@
 # ![200](https://www.codewars.com/users/liavitski/badges/small)
 #### My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,styledcomponents,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,styledcomponents,tailwind,react,nextjs)](https://skillicons.dev)
