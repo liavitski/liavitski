@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Pavel Liavitski
 ### I'm a Front-end developer
-&nbsp;&nbsp; - 🌱 I’m currently learning React ⚛️
+&nbsp;&nbsp; - 🌱 I’m currently exploring React ⚛️ and Next.js 
 
 # ![200](https://www.codewars.com/users/liavitski/badges/small)
 #### My Skills:
