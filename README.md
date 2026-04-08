@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Pavel Lyavitski
+## Hi there 👋, I'm Pavel Liavitski
 ### I'm a Front-end developer
 &nbsp;&nbsp; - 🌱 I’m currently exploring React ⚛️ and Next.js 
 
