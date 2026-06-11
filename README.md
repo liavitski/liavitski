@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Pavel Liavitski
-### I'm a Front-end developer
+### I'm a Front-End Developer
 &nbsp;&nbsp; - 🌱 I’m currently exploring React ⚛️ and Next.js 
 
 # ![200](https://www.codewars.com/users/liavitski/badges/small)
