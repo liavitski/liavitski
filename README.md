@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Pavel Liavitski
 ### I'm a Front-End Developer
 - 🛠️ Building projects with Next.js
-- 🔮 Exploring SVG graphics
-- 🎨 Learning Motion for React
+- 🎨 Exploring SVG graphics
+- 🔮 Learning Motion for React
   
 # ![200](https://www.codewars.com/users/liavitski/badges/small)
 #### My Skills:
