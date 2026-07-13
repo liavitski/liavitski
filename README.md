@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Pavel Liavitski
+## Hi there 👋, I'm Pavel Lyavitski
 ### I'm a Front-End Developer
 - 🛠️ Building projects with Next.js
 - 🎨 Exploring SVG graphics
