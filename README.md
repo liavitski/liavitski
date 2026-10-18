@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Pavel, a TypeScript Developer
+## Hi there 👋, I'm Pavel, a Frontend Developer
 - 🛠️ Building projects with Next.js
 - 🎨 Exploring SVG graphics
 
